@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practice_16_17_Curiosity" parent="Theme.Material3.Light">
+
+    </style>
+
+    <style name="Theme.Practice_16_17_Curiosity" parent="Base.Theme.Practice_16_17_Curiosity" />
+</resources>

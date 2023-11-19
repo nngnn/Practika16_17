@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice16_17</string>
+    <string name="buttonText_setThem">Сменить тему</string>
+
+    <string name="Text_description">Меняет тему приложения</string>
+    <string name="buttonText_return">Назад</string>
+</resources>
